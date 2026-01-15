@@ -1,0 +1,8 @@
+clothing:
+  - "a photo of a person wearing {}"
+color:
+  - "a photo of a person wearing {} clothing"
+context:
+  - "a person in {} environment"
+style:
+  - "a {} outfit"
